@@ -1,0 +1,32 @@
+Year,Layoffs,Reason_for_Layoffs,Industry_Focus,Global_Event,Job_Sector_Growth(Millions),AI_Job_Percentage(%),Future_Job_Trends
+1995,50,"Dot-com bubble preparations, low layoffs",Technology,Pre-dot-com boom,5,0.5,"Technology, Finance"
+1996,70,Rise of early internet companies,Technology,Rise of internet startups,11,0.5,Technology
+1997,90,Growth in tech hiring,Technology,Dot-com buildup,18,0.5,Technology
+1998,120,"Build-up to Y2K, increased hiring",Technology,Y2K preparations,26,0.5,Technology
+1999,150,"Dot-com bubble boom, hiring surge",Technology,Dot-com bubble boom,35,0.5,"Engineering, Technology"
+2000,200,"Dot-com bubble peak, layoffs minimal",Technology,Dot-com bubble peak,45,0.5,Technology
+2001,300,"Burst of dot-com bubble, massive layoffs",Technology,Dot-com bubble burst,57,0.5,AI and Software
+2002,250,"Recovery from bubble, moderate layoffs",Technology,Recovery from dot-com crash,72,0.5,"AI, Data Science"
+2003,220,Early tech outsourcing to India and China,Technology,Early outsourcing surge,90,0.5,Healthcare Technology
+2004,180,Economic growth recovery,Finance,Economic recovery,110,0.5,Technology
+2005,400,"Global financial crisis onset, layoffs high","Finance, Technology",Global financial crisis,132,0.5,AI-driven industries
+2006,350,Post-financial crisis recovery,"Technology, Finance",Post-crisis recovery,157,0.5,"AI, Cloud Computing"
+2007,300,"Adoption of cloud computing, steady layoffs",Technology,Rise of cloud computing,185,0.5,"Social Media, Technology"
+2008,280,Social media industry growth,Social Media,Social media revolution,215,0.5,Big Data
+2009,250,"Expansion of big data roles, minimal layoffs","Big Data, Technology",Big data expansion,248,0.5,AI and Automation
+2010,270,"Automation conversations, slight layoffs",Automation,Automation talk increases,283,1,Automation and Robotics
+2011,260,Early AI and automation hiring trends,"AI, Automation",AI enters mainstream discussions,321,2,AI in Healthcare
+2012,300,Economic slowdown globally,Global Industries,Global economic slowdown,361,3,Sustainability Tech
+2013,320,Tech industry consolidation,"Technology, Retail",Industry consolidations,403,5,"AI, E-commerce"
+2014,340,"Growth in e-commerce, market saturation layoffs","Retail, E-commerce",E-commerce expansion,448,8,Tech & Remote Jobs
+2015,400,"Global financial crisis, impact on industries",Global Industries,Global financial crisis,496,12,Healthcare & AI
+2016,370,"Increased global competition, layoffs in traditional sectors",Traditional Industries,Global competition increase,546,15,AI in Retail
+2017,350,"Corporate downsizing, focus on profitability","Corporate, Technology",Corporate downsizing,599,18,"Tech, Corporate AI"
+2018,380,Rising automation adoption replacing roles,"Manufacturing, Technology",Automation surge,654,22,AI in Education
+2019,450,"Widespread tech upgrades, upskilling mismatches","Technology, Healthcare",Tech upgrades,712,28,"Healthcare, AI Expansion"
+2020,500,"COVID-19 pandemic, layoffs in travel and retail","Travel, Retail",COVID-19 pandemic,772,35,AI Across All Sectors
+2021,550,Post-pandemic AI transitions,Technology,Post-pandemic recovery,837,40,Generative AI Focus
+2022,600,AI boom replacing jobs in content creation,"Technology, Content",AI boom in tech,905,50,AI and Content Creation
+2023,700,Accelerated adoption of generative AI tools,All Industries,Generative AI adoption,977,55,AI in Sustainability
+2024,800,All industries adopting AI at scale,All Industries,Full AI integration,1052,60,All Sectors AI Dominated
+,,No significant event,No significant focus,No significant event,,65,No clear trend
